@@ -1,0 +1,213 @@
+Rotation: BoJ - CS - CS - Sera - HoW - BoJ - Judge - FR - ES - TV - DT - TV - Wake - TV - HoW - TV - BoJ - Judge - TV - 
+Assumes that DT procs one MJ. The Judgement cast after Sera is proccing one MJ. One AoW proc guarantees quick build up to 5 HP pre ES. | RC 3 proc.
+---------------------------------------------------
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 0.0%, Pi=False, BL=False 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 1.5 secs  
+ES active: False | Sera active: False | Casting: CS at 3.0 secs  
+ES active: False | Sera active: False | Casting: Sera at 4.5 secs  
+ES active: False | Sera active: True | Casting: HoW at 5.89 secs  
+ES active: False | Sera active: True | Casting: BoJ at 7.28 secs  
+ES active: False | Sera active: True | Casting: Judge at 8.67 secs  
+ES active: False | Sera active: True | Casting: FR at 10.06 secs  
+ES active: False | Sera active: True | Casting: ES at 11.45 secs  
+ES active: True | Sera active: True | Casting: TV at 12.84 secs  
+ES active: True | Sera active: True | Casting: DT at 14.23 secs  
+ES active: True | Sera active: True | Casting: TV at 15.62 secs  
+ES active: True | Sera active: True | Casting: Wake at 17.01 secs  
+ES active: True | Sera active: True | Casting: TV at 18.4 secs  
+ES active: False | Sera active: False | Casting: HoW at 19.79 secs  
+ES active: False | Sera active: False | Casting: TV at 21.29 secs  
+ES active: False | Sera active: False | Casting: BoJ at 22.91 secs  
+ES active: False | Sera active: False | Casting: Judge at 24.66 secs  
+ES active: False | Sera active: False | Casting: TV at 26.55 secs  
+Number of TVs in ES Window: 3
+
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 22.00000000000002%, Pi=False, BL=False 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 1.23 secs  
+ES active: False | Sera active: False | Casting: CS at 2.46 secs  
+ES active: False | Sera active: False | Casting: Sera at 3.69 secs  
+ES active: False | Sera active: True | Casting: HoW at 4.83 secs  
+ES active: False | Sera active: True | Casting: BoJ at 5.97 secs  
+ES active: False | Sera active: True | Casting: Judge at 7.11 secs  
+ES active: False | Sera active: True | Casting: FR at 8.25 secs  
+ES active: False | Sera active: True | Casting: ES at 9.39 secs  
+ES active: True | Sera active: True | Casting: TV at 10.53 secs  
+ES active: True | Sera active: True | Casting: DT at 11.67 secs  
+ES active: True | Sera active: True | Casting: TV at 12.81 secs  
+ES active: True | Sera active: True | Casting: Wake at 13.95 secs  
+ES active: True | Sera active: True | Casting: TV at 15.09 secs  
+ES active: True | Sera active: True | Casting: HoW at 16.23 secs  
+ES active: True | Sera active: True | Casting: TV at 17.37 secs  
+ES active: False | Sera active: True | Casting: BoJ at 18.51 secs  
+ES active: False | Sera active: False | Casting: Judge at 19.65 secs  
+ES active: False | Sera active: False | Casting: TV at 20.88 secs  
+Number of TVs in ES Window: 4
+
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 73.00000000000007%, Pi=False, BL=False 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 0.87 secs  
+ES active: False | Sera active: False | Casting: CS at 1.74 secs  
+ES active: False | Sera active: False | Casting: Sera at 2.61 secs  
+ES active: False | Sera active: True | Casting: HoW at 3.41 secs  
+ES active: False | Sera active: True | Casting: BoJ at 4.21 secs  
+ES active: False | Sera active: True | Casting: Judge at 5.01 secs  
+ES active: False | Sera active: True | Casting: FR at 5.81 secs  
+ES active: False | Sera active: True | Casting: ES at 6.61 secs  
+ES active: True | Sera active: True | Casting: TV at 7.41 secs  
+ES active: True | Sera active: True | Casting: DT at 8.21 secs  
+ES active: True | Sera active: True | Casting: TV at 9.01 secs  
+ES active: True | Sera active: True | Casting: Wake at 9.81 secs  
+ES active: True | Sera active: True | Casting: TV at 10.61 secs  
+ES active: True | Sera active: True | Casting: HoW at 11.41 secs  
+ES active: True | Sera active: True | Casting: TV at 12.21 secs  
+ES active: True | Sera active: True | Casting: BoJ at 13.01 secs  
+ES active: True | Sera active: True | Casting: Judge at 13.81 secs  
+ES active: True | Sera active: True | Casting: TV at 14.61 secs  
+Number of TVs in ES Window: 5
+
+---------------------------------------------------
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 0.0%, Pi=False, BL=True 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 1.15 secs  
+ES active: False | Sera active: False | Casting: CS at 2.3 secs  
+ES active: False | Sera active: False | Casting: Sera at 3.45 secs  
+ES active: False | Sera active: True | Casting: HoW at 4.52 secs  
+ES active: False | Sera active: True | Casting: BoJ at 5.59 secs  
+ES active: False | Sera active: True | Casting: Judge at 6.66 secs  
+ES active: False | Sera active: True | Casting: FR at 7.73 secs  
+ES active: False | Sera active: True | Casting: ES at 8.8 secs  
+ES active: True | Sera active: True | Casting: TV at 9.87 secs  
+ES active: True | Sera active: True | Casting: DT at 10.94 secs  
+ES active: True | Sera active: True | Casting: TV at 12.01 secs  
+ES active: True | Sera active: True | Casting: Wake at 13.08 secs  
+ES active: True | Sera active: True | Casting: TV at 14.15 secs  
+ES active: True | Sera active: True | Casting: HoW at 15.22 secs  
+ES active: True | Sera active: True | Casting: TV at 16.29 secs  
+ES active: False | Sera active: True | Casting: BoJ at 17.36 secs  
+ES active: False | Sera active: True | Casting: Judge at 18.43 secs  
+ES active: False | Sera active: False | Casting: TV at 19.5 secs  
+Number of TVs in ES Window: 4
+
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 33.00000000000003%, Pi=False, BL=True 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 0.87 secs  
+ES active: False | Sera active: False | Casting: CS at 1.74 secs  
+ES active: False | Sera active: False | Casting: Sera at 2.61 secs  
+ES active: False | Sera active: True | Casting: HoW at 3.41 secs  
+ES active: False | Sera active: True | Casting: BoJ at 4.21 secs  
+ES active: False | Sera active: True | Casting: Judge at 5.01 secs  
+ES active: False | Sera active: True | Casting: FR at 5.81 secs  
+ES active: False | Sera active: True | Casting: ES at 6.61 secs  
+ES active: True | Sera active: True | Casting: TV at 7.41 secs  
+ES active: True | Sera active: True | Casting: DT at 8.21 secs  
+ES active: True | Sera active: True | Casting: TV at 9.01 secs  
+ES active: True | Sera active: True | Casting: Wake at 9.81 secs  
+ES active: True | Sera active: True | Casting: TV at 10.61 secs  
+ES active: True | Sera active: True | Casting: HoW at 11.41 secs  
+ES active: True | Sera active: True | Casting: TV at 12.21 secs  
+ES active: True | Sera active: True | Casting: BoJ at 13.01 secs  
+ES active: True | Sera active: True | Casting: Judge at 13.81 secs  
+ES active: True | Sera active: True | Casting: TV at 14.61 secs  
+Number of TVs in ES Window: 5
+
+---------------------------------------------------
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 0.0%, Pi=True, BL=False 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 1.2 secs  
+ES active: False | Sera active: False | Casting: CS at 2.4 secs  
+ES active: False | Sera active: False | Casting: Sera at 3.6 secs  
+ES active: False | Sera active: True | Casting: HoW at 4.71 secs  
+ES active: False | Sera active: True | Casting: BoJ at 5.82 secs  
+ES active: False | Sera active: True | Casting: Judge at 6.93 secs  
+ES active: False | Sera active: True | Casting: FR at 8.04 secs  
+ES active: False | Sera active: True | Casting: ES at 9.15 secs  
+ES active: True | Sera active: True | Casting: TV at 10.26 secs  
+ES active: True | Sera active: True | Casting: DT at 11.37 secs  
+ES active: True | Sera active: True | Casting: TV at 12.48 secs  
+ES active: True | Sera active: True | Casting: Wake at 13.59 secs  
+ES active: True | Sera active: True | Casting: TV at 14.7 secs  
+ES active: True | Sera active: True | Casting: HoW at 15.81 secs  
+ES active: True | Sera active: True | Casting: TV at 16.92 secs  
+ES active: False | Sera active: True | Casting: BoJ at 18.03 secs  
+ES active: False | Sera active: False | Casting: Judge at 19.14 secs  
+ES active: False | Sera active: False | Casting: TV at 20.34 secs  
+Number of TVs in ES Window: 4
+
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 39.000000000000036%, Pi=True, BL=False 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 0.86 secs  
+ES active: False | Sera active: False | Casting: CS at 1.72 secs  
+ES active: False | Sera active: False | Casting: Sera at 2.58 secs  
+ES active: False | Sera active: True | Casting: HoW at 3.38 secs  
+ES active: False | Sera active: True | Casting: BoJ at 4.18 secs  
+ES active: False | Sera active: True | Casting: Judge at 4.98 secs  
+ES active: False | Sera active: True | Casting: FR at 5.78 secs  
+ES active: False | Sera active: True | Casting: ES at 6.58 secs  
+ES active: True | Sera active: True | Casting: TV at 7.38 secs  
+ES active: True | Sera active: True | Casting: DT at 8.18 secs  
+ES active: True | Sera active: True | Casting: TV at 8.98 secs  
+ES active: True | Sera active: True | Casting: Wake at 9.78 secs  
+ES active: True | Sera active: True | Casting: TV at 10.58 secs  
+ES active: True | Sera active: True | Casting: HoW at 11.38 secs  
+ES active: True | Sera active: True | Casting: TV at 12.18 secs  
+ES active: True | Sera active: True | Casting: BoJ at 12.98 secs  
+ES active: True | Sera active: True | Casting: Judge at 13.78 secs  
+ES active: True | Sera active: True | Casting: TV at 14.58 secs  
+Number of TVs in ES Window: 5
+
+---------------------------------------------------
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 0.0%, Pi=True, BL=True 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 0.92 secs  
+ES active: False | Sera active: False | Casting: CS at 1.84 secs  
+ES active: False | Sera active: False | Casting: Sera at 2.76 secs  
+ES active: False | Sera active: True | Casting: HoW at 3.61 secs  
+ES active: False | Sera active: True | Casting: BoJ at 4.46 secs  
+ES active: False | Sera active: True | Casting: Judge at 5.31 secs  
+ES active: False | Sera active: True | Casting: FR at 6.16 secs  
+ES active: False | Sera active: True | Casting: ES at 7.01 secs  
+ES active: True | Sera active: True | Casting: TV at 7.86 secs  
+ES active: True | Sera active: True | Casting: DT at 8.71 secs  
+ES active: True | Sera active: True | Casting: TV at 9.56 secs  
+ES active: True | Sera active: True | Casting: Wake at 10.41 secs  
+ES active: True | Sera active: True | Casting: TV at 11.26 secs  
+ES active: True | Sera active: True | Casting: HoW at 12.11 secs  
+ES active: True | Sera active: True | Casting: TV at 12.96 secs  
+ES active: True | Sera active: True | Casting: BoJ at 13.81 secs  
+ES active: True | Sera active: True | Casting: Judge at 14.66 secs  
+ES active: False | Sera active: True | Casting: TV at 15.51 secs  
+Number of TVs in ES Window: 4
+
+Sera-JudgeMJ-1AoW-1MJ-DT4
+Amount of Base-Haste before buffs: 7.000000000000006%, Pi=True, BL=True 
+ES active: False | Sera active: False | Casting: BoJ at 0 secs  
+ES active: False | Sera active: False | Casting: CS at 0.86 secs  
+ES active: False | Sera active: False | Casting: CS at 1.72 secs  
+ES active: False | Sera active: False | Casting: Sera at 2.58 secs  
+ES active: False | Sera active: True | Casting: HoW at 3.38 secs  
+ES active: False | Sera active: True | Casting: BoJ at 4.18 secs  
+ES active: False | Sera active: True | Casting: Judge at 4.98 secs  
+ES active: False | Sera active: True | Casting: FR at 5.78 secs  
+ES active: False | Sera active: True | Casting: ES at 6.58 secs  
+ES active: True | Sera active: True | Casting: TV at 7.38 secs  
+ES active: True | Sera active: True | Casting: DT at 8.18 secs  
+ES active: True | Sera active: True | Casting: TV at 8.98 secs  
+ES active: True | Sera active: True | Casting: Wake at 9.78 secs  
+ES active: True | Sera active: True | Casting: TV at 10.58 secs  
+ES active: True | Sera active: True | Casting: HoW at 11.38 secs  
+ES active: True | Sera active: True | Casting: TV at 12.18 secs  
+ES active: True | Sera active: True | Casting: BoJ at 12.98 secs  
+ES active: True | Sera active: True | Casting: Judge at 13.78 secs  
+ES active: True | Sera active: True | Casting: TV at 14.58 secs  
+Number of TVs in ES Window: 5
+
